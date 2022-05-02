@@ -1,6 +1,6 @@
 # Ball-Catch-Game
 
-#Game Concept:
+## Game Concept:
 There is a bar at the bottom of game window which can be moved left or right using the buttons that are in the game window. 
 
 Ball will continuously fall from top to bottom and can start from any random x-axis distance.
